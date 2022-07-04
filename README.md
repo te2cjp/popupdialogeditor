@@ -4,7 +4,7 @@ This tool generates the code to show pop-up dialog. Copy the generated code and 
 
 Dialog Type:
 
-- [Standard](standard-banner.html)
+- [Standard](https://te2cjp.github.io/popupdialogeditor/standard-banner.html)
 
 <BR/>
 
