@@ -4,17 +4,11 @@ This tool generates the code to show pop-up dialog. Copy the generated code and 
 
 Dialog Type:
 
-- Standard
+- [Standard](standard-banner.html)
 
 <BR/>
 
-## Usage
-
-goto:
-
-<BR/>
-
-<video src="img/how_to_use_modal_dialog_editor.mp4" controls autoplay></video>
+<img src="img/how_to_use_modal_dialog_editor.gif" width="100%">
 
 <BR/>
 
